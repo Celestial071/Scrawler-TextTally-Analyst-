@@ -3,6 +3,7 @@ Scrawler is a character frequency analysis tool, meticulously programmed in the 
 Developed as a foundational project in the first semester of an engineering program, Scrawler is the collaborative result of Arun Chandra Bhusal, also known on GitHub as Sharp As Wedge. This project showcases the practical application of programming knowledge to solve real-world problems.
 
 
+![scrawler in action](https://github.com/Celestial071/Scrawler-TextTally-Analyst-/assets/157342628/01a5e286-ccab-48cd-9fcd-c0a7a149431e)
 
 
 Features:
@@ -19,8 +20,11 @@ Usage:
     Execute the program, providing the text file you wish to analyze as the argument.
     Review the histogram output and take note of the most frequently occurring character as reported by the program.
 
+    
+
 Contributing:
 While Scrawler is a personal project, contributions for improvement and optimization are welcome. If you have ideas or enhancements, feel free to fork the project, apply your changes, and submit a pull request.
 
 License:
-Scrawler is open-source software, distributed under the MIT License. The terms of the license permit free use, modification, and distribution of the software.
+Scrawler is open-source software, distributed under the MIT License. The terms of the license permit free use, modification, and distribution of
+ the software.
